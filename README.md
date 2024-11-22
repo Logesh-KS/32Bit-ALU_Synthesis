@@ -1,4 +1,4 @@
-# 32Bit-ALU_Synthesis
+# EXPT 5: 32Bit-ALU_Synthesis
 
 ## Aim:
 
@@ -36,10 +36,13 @@ used.
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 #### Synthesis RTL Schematic :
+![WhatsApp Image 2024-11-21 at 18 41 20_5dbf53bb](https://github.com/user-attachments/assets/dd059a0d-aff6-4d52-9108-ecc7cfadf0f0)
 
 #### Area report:
+![WhatsApp Image 2024-11-21 at 18 41 21_95f7dcbb](https://github.com/user-attachments/assets/8b0a595b-e8d0-4d80-a98d-f282a5236943)
 
 #### Power Report:
+![WhatsApp Image 2024-11-21 at 18 41 25_f3daabd0](https://github.com/user-attachments/assets/496de098-7b91-4680-a290-60295fa437e4)
 
 #### Result: 
 
